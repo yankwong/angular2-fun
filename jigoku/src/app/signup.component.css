@@ -1,0 +1,12 @@
+.jigoku-form {
+  position: relative;
+  text-align: center;
+}
+.jigoku-text {
+  /*display:block;  */
+  width: 60%;
+}
+
+.jigoku-signup {
+  /*display: block;*/
+}
